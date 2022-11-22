@@ -1,5 +1,4 @@
-
-describe('example home.spec.js', () => {
+describe('home.spec.js', () => {
   beforeEach(() => {
     cy.visit('/')
   })
