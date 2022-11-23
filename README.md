@@ -1,6 +1,6 @@
-# Jungle
+# Jungle by Nico Hernandez
 
-A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
+A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example. Given an incomplete and "buggy" starter code, I was tasked with fixing and troubleshooting said bugs. Following this, new features were implemented on the app, such as a new "Add Categories" page for the Admin view, and showing relevant order information (e.g. the orders placed, the user's email, the order number) after an order was made. Tests were created using Cypress to ensure validity.
 
 ## Setup
 
